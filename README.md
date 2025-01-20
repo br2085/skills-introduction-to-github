@@ -22,7 +22,7 @@ _Get started using GitHub in less than an hour._
 
 ## Step 4: Merge your pull request
 
-_Nicely done! :sunglasses:_
+_Nicely done! :sunglasses:_ yeahhhh
 
 You successfully created a pull request. You can now merge your pull request.
 
